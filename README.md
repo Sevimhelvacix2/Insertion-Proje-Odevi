@@ -2,9 +2,6 @@
 
 # Patika.dev Algoritma Projeleri
 
-# [patika.dev](https://www.patika.dev/tr) , [https://app.patika.dev/ayhandasyuvarlar](https://app.patika.dev/ayhandasyuvarlar)
-
-### Insertion Sort Project:
 
 ## Soru - 1
 
